@@ -1,0 +1,14 @@
+{
+  "name": "DJ_Kiruxa package.json",
+  "version": "1.0.0",
+  "description": "Rubezniy kontrol 201-324",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "DJ_Kiruxa",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
